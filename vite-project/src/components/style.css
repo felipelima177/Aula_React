@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Home{
+    background-color: black;
+    color: blue;
+}
+
+.Navbar{
+    background-color: blueviolet;
+    color: white;
+}
+
+.PageContent{
+    background-color: rgb(17, 17, 17);
+    color: blueviolet;
+}
+
+.Footer{
+    background-color: rgb(0, 47, 69);
+    color: white;
+}
+
